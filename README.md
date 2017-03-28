@@ -1,0 +1,6 @@
+# CQRS ?
+
+# Event Sourcing ?
+
+# DDD ?
+
